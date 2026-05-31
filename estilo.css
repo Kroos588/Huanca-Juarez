@@ -10,8 +10,22 @@ h1 {
 
 #telefono {
   position: absolute ;
-  left: 35px;
-  top: 350px;
+  left: 43px;
+  top: 220px;
+  color: white;
+}
+
+#codigo {
+  position: absolute;
+  left:43px;
+  top: 223px;
+  color: white;
+}
+
+#correo {
+  posicion:absolute;
+  left:43px;
+  top: 226 px;
   color: white;
 }
   
