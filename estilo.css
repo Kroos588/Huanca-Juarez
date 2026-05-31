@@ -121,32 +121,32 @@ h1 {
 
 #com {
   position: absolute;
-  left: 260px;
+  left: 460px;
   top: 1200px;
 }
 
 #logica {
   position: absolute;
-  left: 460px;
+  left: 860px;
   top: 1200;
 }
 
 #programacion {
   position: absolute;
   left: 60px;
-  top: 1500px;
+  top: 1700px;
 }
 
 #matematica {
   position: absolute;
-  left: 260px;
-  top: 1500px;
+  left: 460px;
+  top: 1700px;
 }
 
 #icc {
   position: absolute;
-  left: 469px;
-  top: 1500px;
+  left: 860px;
+  top: 1700px;
 }
   
 
