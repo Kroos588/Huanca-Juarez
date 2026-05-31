@@ -11,8 +11,8 @@ h1 {
 
 #perfil {
   position: obsolute;
-  left: 40px;
-  top: 40px;
+  left: 50px;
+  top: 20px;
   width: 120px;
 }
 
@@ -103,12 +103,12 @@ h1 {
 #profesores {
   position: absolute;
   left: 650px;
-  top: 910px;
+  top: 890px;
   font-weight: bold;
 }
 
 #profesores1 {
   position: absolute;
   left: 500px;
-  top: 950px;
+  top: 930px;
 }
