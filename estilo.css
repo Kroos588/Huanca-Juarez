@@ -70,40 +70,34 @@ h1 {
   position: absolute;
   left: 550px;
   top: 340px;
-  color: black;
 }
 
 #descripcion1 {
   position: absolute;
   left: 500px;
   top: 365px;
-  color: black;
 }
 
 #descripcion_cursos‎ {
   position: absolute;
   left: 550px;
   top: 680px;
-  color: blakk;
 }
 
-#descripcion_cursos‎1 {
+#descripcion_cursos1 {
   position: absolute;
   left: 500px;
   top: 700px;
-  color: black;
 }
 
 #profesores {
   position: absolute;
   left: 550px;
   top: 880px;
-  color: black;
 }
 
 #profesores1 {
   position: absolute;
   left: 500px;
   top: 900px;
-  color: black;
 }
