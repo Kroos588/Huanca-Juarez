@@ -148,6 +148,31 @@ h1 {
   left: 860px;
   top: 1700px;
 }
-  
+
+#compañeros {
+  position:absolute;
+  left: 100px;
+  top: 2200px;
+  font-weight: bold;
+}
+
+#ucsp {
+  position: absolute;
+  left: 120px;
+  top: 2250px;
+}
+
+#adriano {
+  position: absolute;
+  left: 120px;
+  top: 2300px;
+}
+
+#final {
+  position: absolute;
+  left: 120px;
+  top:2400px;
+}
+
 
 
