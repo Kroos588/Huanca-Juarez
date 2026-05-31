@@ -82,26 +82,26 @@ h1 {
 #curso {
   position: absolute;
   left: 650px;
-  top: 500px;
+  top: 550px;
   font-weight: bold;
 }
 
 #curso1 {
   position: absolute;
   left: 500px;
-  top: 540px;
+  top: 590px;
   
 }
 
 #profesores {
   position: absolute;
   left: 650px;
-  top: 630px;
+  top: 740px;
   font-weight: bold;
 }
 
 #profesores1 {
   position: absolute;
   left: 500px;
-  top: 670px;
+  top: 780px;
 }
