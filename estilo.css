@@ -35,7 +35,7 @@ h1 {
   width: 50px;
   height: 2px;
   top: 300px;
-  backgrounds: white;
+  background: white;
 }
 #Habilidades_blandas {
   position: absolute;
@@ -47,20 +47,20 @@ h1 {
 #Habilidades_blandas1 {
   position: absolute;
   left: 43px;
-  top: 340px;
+  top: 360px;
   color: white;
 }
 
 #Habilidades_duras {
   position: absolute;
   left: 60px;
-  top: 360px;
+  top: 400px;
   color: white;
 }
 
 #Habilidades_duras1 {
   position: absolute;
   left: 43px;
-  top: 380px;
+  top: 440px;
   color: white;
 }
