@@ -187,7 +187,7 @@ h1 {
   
 #compañeros {
   position:absolute;
-  left: 900px;
+  left: 800px;
   top: 2200px;
   font-weight: bold;
   height: 800px;
@@ -195,14 +195,14 @@ h1 {
 
 #ucsp {
   position: absolute;
-  left: 950px;
+  left: 850px;
   top: 2250px;
   height: 500px;
 }
 
 #adriano {
   position: absolute;
-  left: 950px;
+  left: 850px;
   top: 2300px;
   height: 500px;
 }
