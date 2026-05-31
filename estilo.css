@@ -66,10 +66,11 @@ h1 {
   color: white;
 }
 
-#title_descipcion {
+#title_descripcion {
   position: absolute;
-  left: 550px;
+  left: 150px;
   top: 340px;
+  font-weight: bold;
 }
 
 #descripcion1 {
@@ -80,24 +81,27 @@ h1 {
 
 #cursos‎ {
   position: absolute;
-  left: 550px;
+  left: 650px;
   top: 680px;
+  font-weight: bold;
 }
 
 #cursos_1 {
   position: absolute;
   left: 500px;
   top: 700px;
+  
 }
 
 #profesores {
   position: absolute;
-  left: 550px;
-  top: 880px;
+  left: 650px;
+  top: 910px;
+  font-weight: bold;
 }
 
 #profesores1 {
   position: absolute;
   left: 500px;
-  top: 900px;
+  top: 940px;
 }
