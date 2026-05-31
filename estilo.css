@@ -169,9 +169,7 @@ h1 {
 }
 
 #final {
-  position: absolute;
-  left: 120px;
-  top:2400px;
+  margin-bottom: 200px;
 }
 
 
