@@ -32,16 +32,16 @@ h1 {
 #linea {
   position: absolute;
   left: 43px;
+  width: 50px;
+  height: 2px;
   top: 300px;
-  color: white;
+  backgrounds: white;
 }
 #Habilidades_blandas {
   position: absolute;
   left: 60px;
-  width: 50px;
   top: 320px;
-  height: 2px;
-  background: white;
+  color: white;
 }
 
 #Habilidades_blandas1 {
