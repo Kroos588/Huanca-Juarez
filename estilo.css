@@ -13,7 +13,7 @@ h1 {
   position: absolute;
   left: 60px;
   top: 40px;
-  width: 120px;
+  width: 160px;
 }
 
 #telefono {
@@ -112,3 +112,42 @@ h1 {
   left: 500px;
   top: 930px;
 }
+
+#ivu {
+  position: absolute;
+  left: 60px;
+  top: 1200px;
+}
+
+#com {
+  position: absolute;
+  left: 260px;
+  top: 1200px;
+}
+
+#logica {
+  position: absolute;
+  left: 460px;
+  top: 1200;
+}
+
+#programacion {
+  position: absolute;
+  left: 60px;
+  top: 1500px;
+}
+
+#matematica {
+  position: absolute;
+  left: 260px;
+  top: 1500px;
+}
+
+#icc {
+  position: absolute;
+  left: 469px;
+  top: 1500px;
+}
+  
+
+
