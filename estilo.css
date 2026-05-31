@@ -17,14 +17,14 @@ h1 {
 
 #codigo {
   position: absolute;
-  left:43px;
+  left: 43px;
   top: 223px;
   color: white;
 }
 
 #correo {
-  posicion:absolute;
-  left:43px;
+  position: absolute;
+  left: 43px;
   top: 226 px;
   color: white;
 }
