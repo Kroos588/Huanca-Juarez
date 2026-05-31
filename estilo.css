@@ -154,21 +154,21 @@ h1 {
   left: 100px;
   top: 2200px;
   font-weight: bold;
-  height: 250px;
+  height: 800px;
 }
 
 #ucsp {
   position: absolute;
   left: 120px;
   top: 2250px;
-  height: 250px;
+  height: 500px;
 }
 
 #adriano {
   position: absolute;
   left: 120px;
   top: 2300px;
-  height: 250px;
+  height: 500px;
 }
 
 #final {
