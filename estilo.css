@@ -1,7 +1,7 @@
 body {
   margin 0;
   height: 100vh;
-  background: linear-gradient(to right,blue 50%, white 50%);
+  background: linear-gradient(to right,blue 30%, white 50%);
 }
 
 h1 {
