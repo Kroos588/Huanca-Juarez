@@ -9,6 +9,13 @@ h1 {
   margin-left:600px;
 }
 
+#perfil {
+  position: obsolute;
+  left: 40px;
+  top: 40px;
+  width: 120px;
+}
+
 #telefono {
   position: absolute ;
   left: 43px;
