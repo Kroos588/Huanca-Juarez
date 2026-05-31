@@ -66,27 +66,27 @@ h1 {
   color: white;
 }
 
-#title_descripcion {
+#persona {
   position: absolute;
   left: 150px;
   top: 340px;
   font-weight: bold;
 }
 
-#descripcion1 {
+#persona1 {
   position: absolute;
   left: 500px;
   top: 365px;
 }
 
-#cursos‎ {
+#curso {
   position: absolute;
   left: 650px;
   top: 680px;
   font-weight: bold;
 }
 
-#cursos_1 {
+#curso1 {
   position: absolute;
   left: 500px;
   top: 700px;
