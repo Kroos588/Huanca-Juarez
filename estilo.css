@@ -123,7 +123,7 @@ h1 {
   position: absolute;
   left: 60px;
   top: 1250px;
-  width: 140px;
+  width: 170px;
 }
 
 #com {
@@ -136,7 +136,7 @@ h1 {
   position: absolute;
   left: 460px;
   top: 1250px;
-  width: 140px;
+  width: 170px;
 }
 
 #logica {
@@ -156,7 +156,7 @@ h1 {
   position: absolute;
   left: 60px;
   top: 1750px;
-  width: 140px;
+  width: 170px;
 }
 
 #matematica {
@@ -169,7 +169,7 @@ h1 {
   position: absolute;
   left:460px;
   top: 1750px;
-  width: 140px;
+  width: 170px;
 }
   
 #icc {
@@ -182,7 +182,7 @@ h1 {
   position: absolute;
   left: 860px;
   top: 1750px;
-  width: 140px;
+  width: 170px;
 }
   
 #compañeros {
@@ -190,21 +190,21 @@ h1 {
   left: 800px;
   top: 2200px;
   font-weight: bold;
-  height: 800px;
+  height: 1400px;
 }
 
 #ucsp {
   position: absolute;
   left: 850px;
   top: 2250px;
-  height: 500px;
+  height: 1200px;
 }
 
 #adriano {
   position: absolute;
   left: 850px;
   top: 2300px;
-  height: 500px;
+  height: 1200px;
 }
 
 #final {
