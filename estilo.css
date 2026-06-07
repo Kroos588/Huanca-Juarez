@@ -3,7 +3,7 @@ body{
   font-family:Verdana,sans-serif;
 }
 
-.contenedor{
+.principal{
   display:flex;
   min-height:100vh;
 }
