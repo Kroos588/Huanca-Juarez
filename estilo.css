@@ -1,6 +1,6 @@
 body{
-  margin:0
-  font-family:Verdana,sans-serf;
+  margin:0;
+  font-family:Verdana,sans-serif;
 }
 
 .contenedor{
@@ -10,7 +10,7 @@ body{
 
 .izquierda{
   width:26%;
-  backgrounds:#504d4a;
+  background:#504d4a;
   color:white;
   padding:20px;
   box-sizing:border-box;
@@ -45,7 +45,7 @@ h1{
   height:auto;
 }
 
-.compañeros{
+.companeros{
   display:flex;
   padding:15px;
   border:1px solid #6f859b;
