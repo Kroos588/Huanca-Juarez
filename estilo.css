@@ -1,216 +1,79 @@
-body {
-  margin: 0;
-  height: 60vh;
-  background: linear-gradient(to right, #3535b1 26%, white 26%);
-  font-family: Verdana, sans-serif;
+body{
+  margin:0
+  font-family:Verdana,sans-serf;
 }
 
-h1 {
-  margin-left:600px;
+.contenedor{
+  display:flex;
+  min-height:100vh;
 }
 
-#perfil {
-  position: absolute;
-  left: 60px;
-  top: 40px;
-  width: 160px;
+.izquierda{
+  width:26%;
+  backgrounds:#504d4a;
+  color:white;
+  padding:20px;
+  box-sizing:border-box;
 }
 
-#telefono {
-  position: absolute ;
-  left: 43px;
-  top: 240px;
-  color: white;
+.derecha{
+  width:74%;
+  backgrounds:black;
+  color:white;
+  padding:30px;
+  box-sizing:border-box;
 }
 
-#codigo {
-  position: absolute;
-  left: 43px;
-  top: 260px;
-  color: white;
+h1{
+  color:#6f859b;
+  font-size:60px;
 }
 
-#correo {
-  position: absolute;
-  left: 43px;
-  top: 280px;
-  color: white;
+.perfil{
+  width:180px;
+  border-radius:10px;
+  display:block;
+  margin:auto;
 }
 
-#linea {
-  position: absolute;
-  left: 43px;
-  width: 250px;
-  height: 2px;
-  top: 340px;
-  background: white;
-}
-#habilidades_blandas {
-  position: absolute;
-  left: 60px;
-  top: 360px;
-  color: white;
+.tarjeta{
+  width:220px;
 }
 
-#habilidades_blandas1 {
-  position: absolute;
-  left: 43px;
-  top: 400px;
-  color: white;
+.tarjeta img{
+  width:100%;
+  height:auto;
 }
 
-#habilidades_duras {
-  position: absolute;
-  left: 60px;
-  top: 550px;
-  color: white;
+.compañeros{
+  display:flex;
+  padding:15px;
+  border:1px solid #6f859b;
+  border-radius:10px;
 }
 
-#habilidades_duras1 {
-  position: absolute;
-  left: 43px;
-  top: 570px;
-  color: white;
-}
-
-#persona {
-  position: absolute;
-  left: 680px;
-  top: 340px;
-  font-weight: bold;
-}
-
-#persona1 {
-  position: absolute;
-  left: 500px;
-  top: 380px;
-}
-
-#curso {
-  position: absolute;
-  left: 650px;
-  top: 550px;
-  font-weight: bold;
-}
-
-#curso1 {
-  position: absolute;
-  left: 500px;
-  top: 590px;
   
-}
 
-#profesores {
-  position: absolute;
-  left: 650px;
-  top: 890px;
-  font-weight: bold;
-}
+@media (max-width:768px) {
+  .contenedor{
+    flex-direction:column;
+  }
 
-#profesores1 {
-  position: absolute;
-  left: 500px;
-  top: 930px;
-}
+  .izquierda,
+  .derecha{
+    width:100%;
+  }
 
-#ivu {
-  position: absolute;
-  left: 60px;
-  top: 1200px;
-}
+  h1{
+    font-size:35px;
+    text-align:center;
+  }
 
-#ponce {
-  position: absolute;
-  left: 60px;
-  top: 1250px;
-  width: 170px;
-}
-
-#com {
-  position: absolute;
-  left: 460px;
-  top: 1200px;
-}
-
-#cruz {
-  position: absolute;
-  left: 460px;
-  top: 1250px;
-  width: 170px;
-}
-
-#logica {
-  position: absolute;
-  left: 860px;
-  top: 1200px;
-}
-
-
-#programacion {
-  position: absolute;
-  left: 60px;
-  top: 1700px;
-}
-
-#villa {
-  position: absolute;
-  left: 60px;
-  top: 1750px;
-  width: 170px;
-}
-
-#matematica {
-  position: absolute;
-  left: 460px;
-  top: 1700px;
-}
-
-#diaz {
-  position: absolute;
-  left:460px;
-  top: 1750px;
-  width: 170px;
+  .profesores{
+    justify-content:center;
+  }
 }
   
-#icc {
-  position: absolute;
-  left: 860px;
-  top: 1700px;
-}
-
-#quispe {
-  position: absolute;
-  left: 860px;
-  top: 1750px;
-  width: 170px;
-}
   
-#compañeros {
-  position:absolute;
-  left: 800px;
-  top: 2200px;
-  font-weight: bold;
-  height: 1400px;
-}
-
-#ucsp {
-  position: absolute;
-  left: 850px;
-  top: 2250px;
-  height: 1200px;
-}
-
-#adriano {
-  position: absolute;
-  left: 850px;
-  top: 2300px;
-  height: 1200px;
-}
-
-#final {
-  margin-bottom: 200px;
-  color: #3535b1;
-}
-
 
 
